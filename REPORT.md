@@ -12,3 +12,6 @@
 
 ## Ссылки
 - Репозиторий: github.com/leontevanna/ITproject_management
+
+## Изменения в ветке feature-update
+Коммит выполнен в новой ветке
